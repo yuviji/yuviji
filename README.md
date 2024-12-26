@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a student at Penn M&T studying Computer Science 💻, Finance 💰, and Statistics 📈.</p>
+<p align="left">I'm a student in the Jerome Fisher Program in Management & Technology at the University of Pennsylvania studying Computer Science 💻, Finance 💰, and Statistics 📈.</p>
 
 ###
 
