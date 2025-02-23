@@ -74,6 +74,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/yuviji/yuviji/output/snake.svg" alt="Snake animation" />
-
-###
+<!-- <img src="https://raw.githubusercontent.com/yuviji/yuviji/output/snake.svg" alt="Snake animation" />
+ -->
+<!-- ### -->
